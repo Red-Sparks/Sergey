@@ -1,0 +1,2 @@
+main.c:73:13:StartThread	40	static
+main.c:33:5:main	80	static,ignoring_inline_asm
